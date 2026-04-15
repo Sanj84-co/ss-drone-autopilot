@@ -1,0 +1,12 @@
+# Soaring Skies drone settings
+# These are tuned for the smaller Soaring Skies drone (budget ~$700-800)
+altitude=15
+meters=0
+threshhold=1
+threshholdZ=0.3
+groundspeed=8
+climbspeed=-2
+airspeed=15
+servo_num=14
+square_size=1
+camera_url=rtsp://192.168.144.25:8554/main.264

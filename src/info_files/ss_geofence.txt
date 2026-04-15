@@ -1,0 +1,7 @@
+# Soaring Skies Geofence — Piscataway, NJ (Sidney Rd. park)
+# Source: Coordinates.xlsx — Geofence 1-4
+# Format: lat, long
+40.5445826295115, -74.46651307842416
+40.545009770555545, -74.4654848160614
+40.54411294133609, -74.46617000400396
+40.54455057141287, -74.46513040293584

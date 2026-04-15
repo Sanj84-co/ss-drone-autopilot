@@ -1,0 +1,3 @@
+# comment
+redir->info_files/sim_rutgers_logo.txt
+repo->67,34,12

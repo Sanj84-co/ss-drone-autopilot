@@ -1,0 +1,8 @@
+# Soaring Skies config
+# Switch connection to serial when running on real hardware:
+# connection=/dev/ttyTHS1   (Jetson)
+# connection=/dev/ttyAMA0   (Raspberry Pi)
+connection=tcp:127.0.0.1:5763
+baud=115200
+# mission not used directly — SoaringSkiesMission handles task selection
+mission=0

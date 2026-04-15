@@ -1,0 +1,9 @@
+# Soaring Skies — Circuit Time Trial Waypoints
+# Takeoff/start from Compass Rose: 40.54456348882926, -74.46582295806174
+# These waypoints form the lap. The drone returns to the Compass Rose to close each lap.
+# Format: lat, long, alt_meters
+# Adjust these on competition day when official waypoints are provided by the GCS operator.
+40.5448415459701, -74.46580592011446, 15
+40.54490786024952, -74.4656045400383, 15
+40.54452993075104, -74.46529987000028, 15
+40.544764167125734, -74.46535025490404, 15

@@ -1,0 +1,11 @@
+# Soaring Skies — Search Boundary Waypoints for Imaging Lap
+# Source: Coordinates.xlsx — Search Boundary 1-6
+# Drone flies these in order during the imaging lap so the camera covers all targets.
+# Format: lat, long, alt_meters
+# Altitude: 20m AGL (overridden in TargetLocalization.py if needed)
+40.5448415459701, -74.46580592011446, 20
+40.54490786024952, -74.4656045400383, 20
+40.54452993075104, -74.46529987000028, 20
+40.544764167125734, -74.46535025490404, 20
+40.54444415227287, -74.46551586308313, 20
+40.54463127368819, -74.46570390414257, 20

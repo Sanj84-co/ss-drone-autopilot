@@ -1,0 +1,13 @@
+# this file contains parameters for the drone 
+altitude=5
+meters=0
+threshhold=1
+threshholdZ=0.3
+# threshholdZ is the maximum permissible error in the Z axis (altitude). 0.3 represents 3% permissible error
+groundspeed=10
+climbspeed=-2
+airspeed=20
+servo_num=14
+square_size=1
+camera_url=rtsp://192.168.144.25:8554/main.264
+# just as a test, this should be ignored when file is parsed

@@ -1,0 +1,10 @@
+# file containing message names of all messages that need to be stored for later inspection
+GLOBAL_POSITION_INT
+MISSION_REQUEST
+MISSION_REQUEST_INT
+MISSION_ACK
+COMMAND_ACK
+MISSION_ITEM_REACHED
+FENCE_STATUS
+HEARTBEAT
+POSITION_TARGET_GLOBAL_INT

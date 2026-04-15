@@ -1,0 +1,9 @@
+0=null
+1=info_files/test_files/test_waypoint_nav.txt
+2=info_files/test_files/test_circuit_time_trial.txt
+3=info_files/test_files/test_target_localization.txt
+4=info_files/test_files/test_waypoint_nav.txt
+5=info_files/test_files/test_waypoint_nav.txt
+6=info_files/test_files/test_waypoint_nav.txt
+#
+# DO NOT MODIFY THE ORDER. FOLLOW ORDER SHOWN IN mission_picker() FOUND IN main.py 

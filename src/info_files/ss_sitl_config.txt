@@ -1,0 +1,6 @@
+# Soaring Skies — SITL config
+# This file is used for simulator testing ONLY.
+# For real hardware, use ss_config.txt instead.
+connection=tcp:127.0.0.1:5763
+baud=115200
+mission=0
